@@ -1,0 +1,1022 @@
+[
+  {
+    "query": "Can Parliament establish a new state without any conditions?",
+    "answer": "No, Parliament may by law establish a new State on such terms and conditions as it thinks fit.",
+    "document": [
+      "Admission or establishment of new States.—Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.3[2A.[Sikkim to be associated with the Union.]—Omittedby the Constitution (Thirty-sixth Amendment)Act,1975, s."
+    ],
+    "article_reference": "Article 2",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "8:Article 239A",
+        "article_reference": "Article 239A",
+        "title": "Constitution of India - Part VI",
+        "text": "239A. Creation of local Legislatures or Council of Ministers or both for certain Union territories.—(1) Parliament may by law create 4[for the Union territory of 5[Puducherry]]— (a) a body, whether elected or partly nominated and partly elected, tofunction as a Legislature for the Union territory, or (b) a Council of Ministers,or both with such constitution, powers and functions, in each case, as may be specified in the law. (2) Any such law as is referred to in clause (1) shall not be deemed to bean amendment of this Constitution for the purposes of article 368 notwithstanding that it contains any provision which amends or has the effect of amending this Constitution.]",
+        "reranker_score": 0.9996782541275024
+      },
+      {
+        "rank": 2,
+        "chunk_id": "0:Article 2",
+        "article_reference": "Article 2",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "2. Admission or establishment of new States.—Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.3[2A.[Sikkim to be associated with the Union.]—Omittedby the Constitution (Thirty-sixth Amendment)Act,1975, s. 5 (w.e.f.26-4-1975).]",
+        "reranker_score": 0.9954408407211304
+      },
+      {
+        "rank": 3,
+        "chunk_id": "23:Article 244A",
+        "article_reference": "Article 244A",
+        "title": "Constitution of India - Part X - THE SCHEDULED AND TRIBAL AREAS",
+        "text": "244A. Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor.—(1) Notwithstanding anything in this Constitution, Parliament may, by law, form within the State of Assam an autonomous State comprising (whether wholly or in part) all or any of the tribal areas specified in 7[Part I] of the table appended to paragraph 20 of the Sixth Schedule and create therefor— (a) a body, whether elected or partly nominated and partly elected, to function as a Legislature for the autonomous State, or(b) a Council of Ministers,or both with such constitution, powers and functions, in each case, as may be specified in the law.(2) Any such law as is referred to in clause (1) may, in particular,—",
+        "reranker_score": 0.972061038017273
+      },
+      {
+        "rank": 4,
+        "chunk_id": "24:Article 252",
+        "article_reference": "Article 252",
+        "title": "Constitution of India - Part XI - RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "text": "252. Power of Parliament to legislate for two or more States by consent and adoption of such legislation by any other State.—(1) If it appears to the Legislatures of two or more States to be desirable that any of the matters with respect to which Parliament has no power to make laws for the States except as provided in articles 249 and 250 should be regulated in such States by Parliament by law, and if resolutions to that effect are passed by all the Houses of the Legislatures of those States, it shall be lawful for Parliament to pass an act for regulating that matter accordingly, and any Act so passed shall apply to such States and to any other State by which it is adopted afterwards by resolution passed in that behalf by the House or, where there are two Houses, by each of the Houses of the Legislature of that State.",
+        "reranker_score": 0.9678525924682617
+      },
+      {
+        "rank": 5,
+        "chunk_id": "0:Article 3",
+        "article_reference": "Article 3",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "3. Formation of new States and alteration of areas, boundaries or names of existing States.—Parliament may by law—(a) form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State;(b) increase the area of any State;(c) diminish the area of any State;(d) alter the boundaries of any State;(e) alter the name of any State:",
+        "reranker_score": 0.8364871144294739
+      }
+    ]
+  },
+  {
+    "query": "What does Article 2 cover in relation to Sikkim?",
+    "answer": "Article 2 covers the admission or establishment of new States, with a specific mention for Sikkim being associated with the Union.",
+    "document": [
+      "Admission or establishment of new States.—Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.3[2A.[Sikkim to be associated with the Union.]—Omittedby the Constitution (Thirty-sixth Amendment)Act,1975, s."
+    ],
+    "article_reference": "Article 2",
+    "class": "concept",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "0:Article 2",
+        "article_reference": "Article 2",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "2. Admission or establishment of new States.—Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.3[2A.[Sikkim to be associated with the Union.]—Omittedby the Constitution (Thirty-sixth Amendment)Act,1975, s. 5 (w.e.f.26-4-1975).]",
+        "reranker_score": 0.777233898639679
+      },
+      {
+        "rank": 2,
+        "chunk_id": "2:Article 19",
+        "article_reference": "Article 19",
+        "title": "Constitution of India - Part III - FUNDAMENTAL RIGHTSGeneral",
+        "text": "19. Protection of certain rights regarding freedom of speech, etc.—(1) All citizens shall have the right—(a) to freedom of speech and expression;(b) to assemble peaceably and without arms;(c) to form associations or unions2[or co-operative societies];(d) to move freely throughout the territory of India;",
+        "reranker_score": 0.022995123639702797
+      },
+      {
+        "rank": 3,
+        "chunk_id": "9:Article 152",
+        "article_reference": "Article 152",
+        "title": "Constitution of India - Part VI - THE STATES",
+        "text": "152. Definition.—In this Part, unless the context otherwise requires, the expression “State” 2[does not include the State of Jammu and Kashmir].CHAPTER II.—THE EXECUTIVEThe Governor",
+        "reranker_score": 0.015636343508958817
+      },
+      {
+        "rank": 4,
+        "chunk_id": "0:Article 4",
+        "article_reference": "Article 4",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.—(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary.(2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+        "reranker_score": 0.006917284335941076
+      },
+      {
+        "rank": 5,
+        "chunk_id": "3:Article 29",
+        "article_reference": "Article 29",
+        "title": "Constitution of India - Part I - n any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto",
+        "text": "29. Protection of interests of minorities.—(1) Any section of the citizens residing in the territory of India or any part thereof having a distinct language, script or culture of its own shall have the right to conserve the same.(2) No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.",
+        "reranker_score": 0.0042003365233540535
+      }
+    ]
+  },
+  {
+    "query": "What are the conditions Parliament can consider when establishing a new state?",
+    "answer": "Parliament may by law establish a new State on such terms and conditions as it thinks fit, which includes considering specific terms and conditions.",
+    "document": [
+      "Admission or establishment of new States.—Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.3[2A.[Sikkim to be associated with the Union.]—Omittedby the Constitution (Thirty-sixth Amendment)Act,1975, s."
+    ],
+    "article_reference": "Article 2",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "8:Article 239A",
+        "article_reference": "Article 239A",
+        "title": "Constitution of India - Part VI",
+        "text": "239A. Creation of local Legislatures or Council of Ministers or both for certain Union territories.—(1) Parliament may by law create 4[for the Union territory of 5[Puducherry]]— (a) a body, whether elected or partly nominated and partly elected, tofunction as a Legislature for the Union territory, or (b) a Council of Ministers,or both with such constitution, powers and functions, in each case, as may be specified in the law. (2) Any such law as is referred to in clause (1) shall not be deemed to bean amendment of this Constitution for the purposes of article 368 notwithstanding that it contains any provision which amends or has the effect of amending this Constitution.]",
+        "reranker_score": 0.988608717918396
+      },
+      {
+        "rank": 2,
+        "chunk_id": "0:Article 2",
+        "article_reference": "Article 2",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "2. Admission or establishment of new States.—Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.3[2A.[Sikkim to be associated with the Union.]—Omittedby the Constitution (Thirty-sixth Amendment)Act,1975, s. 5 (w.e.f.26-4-1975).]",
+        "reranker_score": 0.9593609571456909
+      },
+      {
+        "rank": 3,
+        "chunk_id": "0:Article 3",
+        "article_reference": "Article 3",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "3. Formation of new States and alteration of areas, boundaries or names of existing States.—Parliament may by law—(a) form a new State by separation of territory from any State or by uniting two or more States or parts of States or by uniting any territory to a part of any State;(b) increase the area of any State;(c) diminish the area of any State;(d) alter the boundaries of any State;(e) alter the name of any State:",
+        "reranker_score": 0.577342689037323
+      },
+      {
+        "rank": 4,
+        "chunk_id": "24:Article 247",
+        "article_reference": "Article 247",
+        "title": "Constitution of India - Part XI - RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "text": "247. Power of Parliament to provide for the establishment of certain additional courts.—Notwithstanding anything in this Chapter, Parliament may by law provide for the establishment of any additional courts for the better administration of laws made by Parliament or of any existing laws with respect to a matter enumerated in the Union List.",
+        "reranker_score": 0.02664017118513584
+      },
+      {
+        "rank": 5,
+        "chunk_id": "34:Article 327",
+        "article_reference": "Article 327",
+        "title": "Constitution of India - Part XV - ELECTIONS",
+        "text": "327. Power of Parliament to make provision with respect to elections to Legislatures.—Subject to the provisions of this Constitution, Parliament may from time to time by law make provision with respect to all matters relating to, or in connection with, elections to either House of Parliament or to the House or either House of the Legislature of a State including the preparation of electoral rolls, the delimitation of constituencies and all other matters necessary for securing the due constitution of such House or Houses.",
+        "reranker_score": 0.020647088065743446
+      }
+    ]
+  },
+  {
+    "query": "What happens if a law made under articles 2 or 3 does not contain provisions for amending the First Schedule?",
+    "answer": "If a law made under articles 2 or 3 does not contain provisions for amending the First Schedule, it is not considered an amendment of this Constitution for the purposes of article 368.",
+    "document": [
+      "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.—(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary.(2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368."
+    ],
+    "article_reference": "Article 4",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "0:Article 4",
+        "article_reference": "Article 4",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.—(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary.(2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+        "reranker_score": 0.9988595247268677
+      },
+      {
+        "rank": 2,
+        "chunk_id": "6:Article 220",
+        "article_reference": "Article 220",
+        "title": "Constitution of India - Part XVII",
+        "text": "220. Restriction on practice after being a permanent Judge.—No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.Explanation.—In this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement4of the Constitution (Seventh Amendment) Act, 1956.]",
+        "reranker_score": 0.07336481660604477
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3:Article 31B",
+        "article_reference": "Article 31B",
+        "title": "Constitution of India - Part I - n any religious instruction that may be imparted in such institution or to attend any religious worship that may be conducted in such institution or in any premises attached thereto unless such person or, if such person is a minor, his guardian has given his consent thereto",
+        "text": "31B. Validation of certain Acts and Regulations.—Without prejudice to the generality of the provisions contained in article 31A, none of the Acts and Regulations specified in the Ninth Schedule nor any of the provisions thereof shall be deemed to be void, or ever to have become void, on the ground that such Act, Regulation or provision is inconsistent with, or takes away or abridges any of the rights conferred by, any provisions of this Part, and notwithstanding any judgment, decree or order of any court or Tribunal to the contrary, each of the said Acts and Regulations shall, subject to the power of any competent Legislature to repeal or amend it, continue in force.]3[",
+        "reranker_score": 0.06109214201569557
+      },
+      {
+        "rank": 4,
+        "chunk_id": "13:Article 190",
+        "article_reference": "Article 190",
+        "title": "Constitution of India - Part I - n the proceedings",
+        "text": "190. Vacation of seats.—(1) No person shall be a member of both Houses of the Legislature of a State and provision shall be made by the Legislature of the State by law for the vacation by a person who is chosen a member of both Houses of his seat in one house or the other.(2) No person shall be a member of the Legislatures of two or more States specified in the First Schedule and if a person is chosen a member of the Legislatures of two or more such States, then, at the expiration of such period as may be specified in rules1made by the President, that person's seat in the Legislatures of all such States shall become vacant, unless he has previously resigned his seat in the Legislatures of all but one of the States.(3) If a member of a House of the Legislature of a State— (a) becomes subject to any of the disqualifications mentioned in 2[clause (1) or clause (2) of article 191]; or3[(b) resigns his seat by writing under his hand addressed to the speaker or the Chairman, as the case may be, and his resignation is accepted by the Speaker or the Chairman, as the case may be,]his seat shall thereupon become vacant:4[Provided that in the case of any resignation referred to in sub-clause (b), if from information received or otherwise and after making such inquiry as he thinks fit, the Speaker or the Chairman, as the case may be, is satisfied that such resignation is not voluntary or genuine, he shall not accept such resignation.](4) If for a period of sixty days a member of a House of the Legislature of a State is without permission of the House absent from all meetings thereof, the House may declare his seat vacant:Provided that in computing the said period of sixty days no account shall be taken of any period during which the House is prorogued or is adjourned for more than four consecutive days.",
+        "reranker_score": 0.04925021529197693
+      },
+      {
+        "rank": 5,
+        "chunk_id": "9:Article 169",
+        "article_reference": "Article 169",
+        "title": "Constitution of India - Part VI - THE STATES",
+        "text": "169. Abolition or creation of Legislative Councils in States.—(1) Notwithstanding anything in article 168, Parliament may by law provide for the abolition of the Legislative Council of a State having such a Council or for the creation of such a Council in a State having no such Council, if the Legislative Assembly of the State passes a resolution to that effect by a majority of the total membership of the Assembly and by a majority of not less than two-thirds of the members of the Assembly present and voting.(2) Any law referred to in clause (1) shall contain such provisions for the amendment of this Constitution as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions as Parliament may deem necessary.(3) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368.4[",
+        "reranker_score": 0.044666726142168045
+      }
+    ]
+  },
+  {
+    "query": "What are the implications if a law made under articles 2 or 3 does not contain provisions for amending the Fourth Schedule?",
+    "answer": "If a law made under articles 2 or 3 does not contain provisions for amending the Fourth Schedule, it is not considered an amendment of this Constitution for the purposes of article 368.",
+    "document": [
+      "Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.—(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary.(2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368."
+    ],
+    "article_reference": "Article 4",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "0:Article 4",
+        "article_reference": "Article 4",
+        "title": "Constitution of India - Part I - THE UNION AND ITS TERRITORY",
+        "text": "4. Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.—(1) Any law referred to in article 2 or article 3 shall contain such provisions for the amendment of the First Schedule and the Fourth Schedule as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions (including provisions as to representation in Parliament and in the Legislature or Legislatures of the State or States affected by such law) as Parliament may deem necessary.(2) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+        "reranker_score": 0.9972724318504333
+      },
+      {
+        "rank": 2,
+        "chunk_id": "24:Article 254",
+        "article_reference": "Article 254",
+        "title": "Constitution of India - Part XI - RELATIONS BETWEEN THE UNION AND THE STATES CHAPTER I",
+        "text": "254. Inconsistency between laws made by Parliament and laws made by the Legislatures of States.—(1) If any provision of a law made by the Legislature of a State is repugnant to any provision of a law made by Parliament which Parliament is competent to enact, or to any provision of an existing law with respect to one of the matters enumerated in the Concurrent List, then, subject to the provisions of clause (2), the law made by Parliament, whether passed before or after the law made by the Legislature of such State, or, as the case may be, the existing law, shall prevail and the law made by the Legislature of the State shall, to the extent of the repugnancy, be void.(2) Where a law made by the Legislature of a State 1*** with respect to one of the matters enumerated in the Concurrent List contains any provision repugnant to the provisions of an earlier law made by Parliament or an existing law with respect to that matter, then, the law so made by the Legislature of such State shall, if it has been reserved for the consideration of the President and has received his assent, prevail in that State:Provided that nothing in this clause shall prevent Parliament from enacting at any time any law with respect to the same matter including a law adding to, amending, varying or repealing the law so made by the Legislature of the State.",
+        "reranker_score": 0.015631722286343575
+      },
+      {
+        "rank": 3,
+        "chunk_id": "6:Article 220",
+        "article_reference": "Article 220",
+        "title": "Constitution of India - Part XVII",
+        "text": "220. Restriction on practice after being a permanent Judge.—No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.Explanation.—In this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement4of the Constitution (Seventh Amendment) Act, 1956.]",
+        "reranker_score": 0.01473135408014059
+      },
+      {
+        "rank": 4,
+        "chunk_id": "9:Article 169",
+        "article_reference": "Article 169",
+        "title": "Constitution of India - Part VI - THE STATES",
+        "text": "169. Abolition or creation of Legislative Councils in States.—(1) Notwithstanding anything in article 168, Parliament may by law provide for the abolition of the Legislative Council of a State having such a Council or for the creation of such a Council in a State having no such Council, if the Legislative Assembly of the State passes a resolution to that effect by a majority of the total membership of the Assembly and by a majority of not less than two-thirds of the members of the Assembly present and voting.(2) Any law referred to in clause (1) shall contain such provisions for the amendment of this Constitution as may be necessary to give effect to the provisions of the law and may also contain such supplemental, incidental and consequential provisions as Parliament may deem necessary.(3) No such law as aforesaid shall be deemed to be an amendment of this Constitution for the purposes of article 368.4[",
+        "reranker_score": 0.01426298264414072
+      },
+      {
+        "rank": 5,
+        "chunk_id": "29:Article 305",
+        "article_reference": "Article 305",
+        "title": "Constitution of India - Part XIII - TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA",
+        "text": "305. Saving of existing laws and laws providing for State monopolies.—Nothing in articles 301 and 303 shall affect the provisions of any existing law except in so far as the President may by order otherwise direct; and nothing in article 301 shall affect the operation of any law made before the commencement of the Constitution (Fourth Amendment) Act, 1955, in so far as it relates to, or prevent Parliament or the Legislature of a State from making any law relating to, any such matter as is referred to in sub-clause (ii) of clause (6) of article 19.]",
+        "reranker_score": 0.013675333932042122
+      }
+    ]
+  },
+  {
+    "query": "What is the condition for a person born in India to be considered a citizen?",
+    "answer": "A person who was born in the territory of India at the commencement of this Constitution shall be a citizen of India.",
+    "document": [
+      "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or"
+    ],
+    "article_reference": "Article 5",
+    "class": "concept",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9876546263694763
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.9584766626358032
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9256387948989868
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.7876210808753967
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.7806637287139893
+      }
+    ]
+  },
+  {
+    "query": "What are the conditions for a person to become a citizen if they were not born in India?",
+    "answer": "A person who has been ordinarily resident in the territory of India for not less than five years immediately preceding the commencement of this Constitution, or either of whose parents was born in the territory of India, shall be a citizen of India.",
+    "document": [
+      "(b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India."
+    ],
+    "article_reference": "Article 5",
+    "class": "generalization",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9628211259841919
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.902276873588562
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.8785415291786194
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.8026439547538757
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.540968120098114
+      }
+    ]
+  },
+  {
+    "query": "If Person A was born in India and their father was also born in India, can they automatically become citizens?",
+    "answer": "Yes, if either of the parents is born in the territory of India, then a person who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement shall be a citizen of India.",
+    "document": [
+      "(b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India."
+    ],
+    "article_reference": "Article 5",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9874147772789001
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9101668000221252
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.8503642082214355
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.06766055524349213
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.04890419915318489
+      }
+    ]
+  },
+  {
+    "query": "What are the requirements for someone to become a citizen if they were born outside India?",
+    "answer": "A person who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement shall be a citizen of India.",
+    "document": [
+      "(b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India."
+    ],
+    "article_reference": "Article 5",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.9779021739959717
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9736781120300293
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.8147177696228027
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.709194004535675
+      },
+      {
+        "rank": 5,
+        "chunk_id": "13:Article 191",
+        "article_reference": "Article 191",
+        "title": "Constitution of India - Part I - n the proceedings",
+        "text": "191. Disqualifications for membership.—(1) A person shall be disqualified for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State—1[(a) if he holds any office of profit under the Government of India or the Government of any State specified in the First Schedule, other than an office declared by the Legislature of the State by law not to disqualify its holder;](b) if he is of unsound mind and stands so declared by a competent court; (c) if he is an undischarged insolvent;(d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgment of allegiance or adherence to a foreign State;(e) if he is so disqualified by or under any law made by Parliament. 2[Explanation.—For the purposes of this clause], a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State specified in the First Schedule by reason only that he is a Minister either for the Union or for such State.3[(2) A person shall be disqualified for being a member of the Legislative Assembly or Legislative Council of a State if he is so disqualified under the Tenth Schedule.]4[",
+        "reranker_score": 0.45899254083633423
+      }
+    ]
+  },
+  {
+    "query": "What are the conditions for a person who migrated from Pakistan before July 19, 1948 to be considered a citizen of India?",
+    "answer": "A person who migrated from Pakistan before July 19, 1948 and meets one of the following conditions will be deemed a citizen of India at the commencement of this Constitution: (a) they or either of their parents or any of their grand-parents was born in India as defined in the Government of India Act, 1935; and (b)(i) if they have been ordinarily resident in the territory of India since the date of their migration, or (ii) if they have been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made to such officer before the commencement of this Constitution in the form and manner prescribed by that Government. They must also have resided in the territory of India for at least six months immediately preceding the date of their application.",
+    "document": [
+      "Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application."
+    ],
+    "article_reference": "Article 6",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9923533797264099
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.9797816276550293
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9326232075691223
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.7133408784866333
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.6884105205535889
+      }
+    ]
+  },
+  {
+    "query": "What are the conditions for a person who migrated from Pakistan after July 19, 1948 to be considered a citizen of India?",
+    "answer": "A person who migrated from Pakistan on or after July 19, 1948 and meets one of the following conditions will be deemed a citizen of India at the commencement of this Constitution: (a) they or either of their parents or any of their grand-parents was born in India as defined in the Government of India Act, 1935; and (b)(i) if they have been ordinarily resident in the territory of India since the date of their migration, or (ii) if they have been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made to such officer before the commencement of this Constitution in the form and manner prescribed by that Government. They must also have resided in the territory of India for at least six months immediately preceding the date of their application.",
+    "document": [
+      "Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application."
+    ],
+    "article_reference": "Article 6",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9947746396064758
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.9858662486076355
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9373089075088501
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.7236349582672119
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.6916916966438293
+      }
+    ]
+  },
+  {
+    "query": "What is required for a person who migrated from Pakistan before July 19, 1948 to be registered as a citizen of India?",
+    "answer": "For a person who migrated from Pakistan before July 19, 1948 to be registered as a citizen of India, they must have been resident in the territory of India for at least six months immediately preceding the date of their application and meet one of the following conditions: (a) they or either of their parents or any of their grand-parents was born in India as defined in the Government of India Act, 1935; and (b)(i) if they have been ordinarily resident in the territory of India since the date of their migration, or (ii) if they have been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made to such officer before the commencement of this Constitution in the form and manner prescribed by that Government.",
+    "document": [
+      "Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application."
+    ],
+    "article_reference": "Article 6",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9935198426246643
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.8783142566680908
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.5576882362365723
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.39389336109161377
+      },
+      {
+        "rank": 5,
+        "chunk_id": "34:Article 326",
+        "article_reference": "Article 326",
+        "title": "Constitution of India - Part XV - ELECTIONS",
+        "text": "326. Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage.—The elections to the House of the People and to the Legislative Assembly of every State shall be on the basis of adult suffrage; that is to say, every person who is a citizen of India and who is not less than 2[eighteen years] of age on such date as may be fixed in that behalf by or under any law made by the appropriate Legislature and is not otherwise disqualified under this Constitution or any law made by the appropriate Legislature on the ground of non-residence, unsoundness of mind, crime or corrupt or illegal practice, shall be entitled to be registered as a voter at any such election.",
+        "reranker_score": 0.2888143062591553
+      }
+    ]
+  },
+  {
+    "query": "What is required for a person who migrated from Pakistan after July 19, 1948 to be registered as a citizen of India?",
+    "answer": "For a person who migrated from Pakistan on or after July 19, 1948 to be registered as a citizen of India, they must have been resident in the territory of India for at least six months immediately preceding the date of their application and meet one of the following conditions: (a) they or either of their parents or any of their grand-parents was born in India as defined in the Government of India Act, 1935; and (b)(i) if they have been ordinarily resident in the territory of India since the date of their migration, or (ii) if they have been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made to such officer before the commencement of this Constitution in the form and manner prescribed by that Government.",
+    "document": [
+      "Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application."
+    ],
+    "article_reference": "Article 6",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.995473325252533
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.9193329811096191
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.5863264799118042
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.40935853123664856
+      },
+      {
+        "rank": 5,
+        "chunk_id": "34:Article 326",
+        "article_reference": "Article 326",
+        "title": "Constitution of India - Part XV - ELECTIONS",
+        "text": "326. Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage.—The elections to the House of the People and to the Legislative Assembly of every State shall be on the basis of adult suffrage; that is to say, every person who is a citizen of India and who is not less than 2[eighteen years] of age on such date as may be fixed in that behalf by or under any law made by the appropriate Legislature and is not otherwise disqualified under this Constitution or any law made by the appropriate Legislature on the ground of non-residence, unsoundness of mind, crime or corrupt or illegal practice, shall be entitled to be registered as a voter at any such election.",
+        "reranker_score": 0.2917492091655731
+      }
+    ]
+  },
+  {
+    "query": "What is the condition for a person who has migrated from India to Pakistan and then returned under a permit to be considered as having migrated to India?",
+    "answer": "A person who has after migrating from the territory of India to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India.",
+    "document": [
+      "(b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948."
+    ],
+    "article_reference": "Article 7",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.9973684549331665
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9651235938072205
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.03515462949872017
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.020083805546164513
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.004444381687790155
+      }
+    ]
+  },
+  {
+    "query": "What are the conditions that apply to a person who has not been deemed as a citizen of India under Article 7?",
+    "answer": "A person who has migrated from the territory of India to the territory now included in Pakistan after March 1, 1947 shall not be deemed to be a citizen of India unless they have returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law.",
+    "document": [
+      "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause"
+    ],
+    "article_reference": "Article 7",
+    "class": "concept",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "13:Article 191",
+        "article_reference": "Article 191",
+        "title": "Constitution of India - Part I - n the proceedings",
+        "text": "191. Disqualifications for membership.—(1) A person shall be disqualified for being chosen as, and for being, a member of the Legislative Assembly or Legislative Council of a State—1[(a) if he holds any office of profit under the Government of India or the Government of any State specified in the First Schedule, other than an office declared by the Legislature of the State by law not to disqualify its holder;](b) if he is of unsound mind and stands so declared by a competent court; (c) if he is an undischarged insolvent;(d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgment of allegiance or adherence to a foreign State;(e) if he is so disqualified by or under any law made by Parliament. 2[Explanation.—For the purposes of this clause], a person shall not be deemed to hold an office of profit under the Government of India or the Government of any State specified in the First Schedule by reason only that he is a Minister either for the Union or for such State.3[(2) A person shall be disqualified for being a member of the Legislative Assembly or Legislative Council of a State if he is so disqualified under the Tenth Schedule.]4[",
+        "reranker_score": 0.4599372446537018
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.4386269152164459
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.3296394348144531
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.3102545142173767
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.2307371348142624
+      }
+    ]
+  },
+  {
+    "query": "What does Article 7 imply about the rights of certain migrants who have not been deemed as citizens of India?",
+    "answer": "Article 7 implies that a person who has migrated from the territory of India to the territory now included in Pakistan after March 1, 1947 shall not be deemed to be a citizen of India unless they return under a permit for resettlement or permanent return issued by any law.",
+    "document": [
+      "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause"
+    ],
+    "article_reference": "Article 7",
+    "class": "concept",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.9096296429634094
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.2588688135147095
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.09440242499113083
+      },
+      {
+        "rank": 4,
+        "chunk_id": "2:Article 18",
+        "article_reference": "Article 18",
+        "title": "Constitution of India - Part III - FUNDAMENTAL RIGHTSGeneral",
+        "text": "18. Abolition of titles.—(1) No title, not being a military or academic distinction, shall be conferred by the State.(2) No citizen of India shall accept any title from any foreign State.(3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State.(4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State.Right to Freedom",
+        "reranker_score": 0.07161667197942734
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.054488655179739
+      }
+    ]
+  },
+  {
+    "query": "What is the difference in treatment between a person who has returned from Pakistan and another person who has not migrated to Pakistan?",
+    "answer": "A person who has returned to the territory of India under a permit for resettlement or permanent return issued by any law shall be deemed to have migrated to the territory of India, whereas a person who has not migrated to Pakistan is not considered as having been a citizen of India.",
+    "document": [
+      "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause"
+    ],
+    "article_reference": "Article 7",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 7",
+        "article_reference": "Article 7",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "7. Rights of citizenship of certain migrants to Pakistan.—Notwithstanding anything in articles 5 and 6, a person who has after the first day of March, 1947, migrated from the territory of India to the territory now included in Pakistan shall not be deemed to be a citizen of India: 5Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.",
+        "reranker_score": 0.2652445137500763
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.13647125661373138
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.0013066858518868685
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.0005826853448525071
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.0005569800268858671
+      }
+    ]
+  },
+  {
+    "query": "Who is considered a citizen of India under this article?",
+    "answer": "Any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+    "document": [
+      "Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India."
+    ],
+    "article_reference": "Article 8",
+    "class": "concept",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.7989367842674255
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.712207019329071
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.6720026731491089
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.4287005662918091
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.26096513867378235
+      }
+    ]
+  },
+  {
+    "query": "What is required for a person to be considered a citizen under this article?",
+    "answer": "For a person to be considered a citizen under this article, they must have been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+    "document": [
+      "Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India."
+    ],
+    "article_reference": "Article 8",
+    "class": "concept",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.5725566148757935
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.5102449655532837
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.2697121798992157
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.21341845393180847
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.13446342945098877
+      }
+    ]
+  },
+  {
+    "query": "Can a person be considered a citizen if they were born outside India but have parents who were born in India?",
+    "answer": "Yes, a person can be considered a citizen under this article if their parent or grandparent was born in India as defined in the Government of India Act, 1935 (as originally enacted), and they are ordinarily residing in any country outside India as so defined.",
+    "document": [
+      "Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India."
+    ],
+    "article_reference": "Article 8",
+    "class": "logic",
+    "retrieval": [
+      {
+        "rank": 1,
+        "chunk_id": "1:Article 8",
+        "article_reference": "Article 8",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "8. Rights of citizenship of certain persons of Indian origin residing outside India.—Notwithstanding anything in article 5, any person who or either of whose parents or any of whose grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted), and who is ordinarily residing in any country outside India as so defined shall be deemed to be a citizen of India if he has been registered as a citizen of India by the diplomatic or consular representative of India in the country where he is for the time being residing on an application made by him therefor to such diplomatic or consular representative, whether before or after the commencement of this Constitution, in the form and manner prescribed by the Government of the Dominion of India or the Government of India.",
+        "reranker_score": 0.9985209107398987
+      },
+      {
+        "rank": 2,
+        "chunk_id": "1:Article 5",
+        "article_reference": "Article 5",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "5. Citizenship at the commencement of the Constitution.—At the commencement of this Constitution, every person who has his domicile in the territory of India and—(a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or(c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India.",
+        "reranker_score": 0.9846459031105042
+      },
+      {
+        "rank": 3,
+        "chunk_id": "1:Article 6",
+        "article_reference": "Article 6",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "6. Rights of citizenship of certain persons who have migrated to India from Pakistan.—Notwithstanding anything in article 5, a person who has migrated to the territory of India from the territory now included in Pakistan shall be deemed to be a citizen of India at the commencement of this Constitution if—(a) he or either of his parents or any of his grand-parents was born in India as defined in the Government of India Act, 1935 (as originally enacted); and(b)(i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or(ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.",
+        "reranker_score": 0.9403395056724548
+      },
+      {
+        "rank": 4,
+        "chunk_id": "1:Article 9",
+        "article_reference": "Article 9",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "9. Persons voluntarily acquiring citizenship of a foreign State not to be citizens.—No person shall be a citizen of India by virtue of article 5, or be deemed to be a citizen of India by virtue of article 6 or article 8, if he has voluntarily acquired the citizenship of any foreign State.",
+        "reranker_score": 0.46067115664482117
+      },
+      {
+        "rank": 5,
+        "chunk_id": "1:Article 10",
+        "article_reference": "Article 10",
+        "title": "Constitution of India - Part IICI - TIZENSHIP",
+        "text": "10. Continuance of the rights of citizenship.—Every person who is or is deemed to be a citizen of India under any of the foregoing provisions of this Part shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen.",
+        "reranker_score": 0.1321192979812622
+      }
+    ]
+  }
+]

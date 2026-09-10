@@ -1,0 +1,44 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Other Python virtual environments
+env/
+ENV/
+.env
+.envrc
+
+# Hugging Face and downloaded model caches
+.cache/huggingface/
+.huggingface/
+hf_cache/
+model_cache/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Temporary files and runtime artefacts
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+tmp/
+temp/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+.spyderproject
+.ropeproject/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
