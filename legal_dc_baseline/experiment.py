@@ -3,6 +3,7 @@
 
 import argparse
 import json
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -13,7 +14,77 @@ from .data import load_corpus, load_qa
 from .generation import LocalGenerator
 from .metrics import generation_metrics, retrieval_metrics
 from .retrieval import HybridRetriever
+# Change 1: Import the exact metric functions present in metrics.py
+from legal_dc_baseline.metrics import generation_metrics, retrieval_metrics
 
+
+def run_single_experiment(
+    retriever, generator, qa_record: dict, top_k: int = 5
+) -> dict:
+    """Executes retrieval, metric calculation, and generation for a SINGLE query using native metrics.py functions."""
+    start_time = time.time()
+
+    query_text = qa_record["question"]
+    target_article = qa_record.get("article_reference", "")
+
+    # Ensure gold passages are passed as a list of strings
+    gold_document = qa_record.get("document", [])
+    if isinstance(gold_document, str):
+        gold_document = [gold_document]
+
+    # 1. Retrieve top-k documents for the single query
+    retrieved_docs = retriever.retrieve(query_text, top_k=top_k)
+
+    # Change 2: Format retrieved docs to match expected keys in metrics.py
+    formatted_retrieval = []
+    for rank_idx, doc in enumerate(retrieved_docs, start=1):
+        formatted_retrieval.append({
+            "rank": rank_idx,
+            "article_reference": doc.get(
+                "article_reference", doc.get("id", "")
+            ),
+            "text": doc.get("text", doc.get("content", "")),
+        })
+
+    # 2. Construct record required by retrieval_metrics & generation_metrics
+    eval_record = {
+        "question": query_text,
+        "article_reference": target_article,
+        "document": gold_document,
+        "retrieval": formatted_retrieval,
+        "answer": qa_record.get("answer", ""),
+    }
+
+    # 3. Generate response using LLM
+    response = generator.generate(query=query_text, context_docs=retrieved_docs)
+    eval_record["rag_answer"] = response
+
+    execution_time = round(time.time() - start_time, 2)
+
+    # Change 3: Call native metrics.py functions on the single-item list
+    r_metrics = retrieval_metrics([eval_record], k=top_k)
+    g_metrics = generation_metrics([eval_record])
+
+    return {
+        "query": query_text,
+        "article_reference": target_article,
+        "retrieved_docs": formatted_retrieval,
+        "generated_answer": response,
+        "execution_time_seconds": execution_time,
+
+        # Retrieval metrics from metrics.py
+        "article_mrr": r_metrics.get(f"article_mrr_at_{top_k}", 0.0),
+        "article_recall": r_metrics.get(f"article_recall_at_{top_k}", 0.0),
+        "legal_dc_exact_gold_recall": r_metrics.get(
+            f"legal_dc_exact_gold_recall_at_{top_k}", 0.0
+        ),
+
+        # Generation metrics from metrics.py (mutated directly onto eval_record)
+        "bleu_2": eval_record.get("bleu_2", 0.0),
+        "rouge_l_f1": eval_record.get("rouge_l_f1", 0.0),
+        "is_accuracy_bleu": eval_record.get("is_accuracy_bleu", 0),
+        "is_accuracy_rouge_l": eval_record.get("is_accuracy_rouge_l", 0),
+    }
 
 def save_json(path: Path, content: object) -> None:
     with path.open("w", encoding="utf-8") as output:
