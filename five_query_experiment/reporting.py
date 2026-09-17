@@ -44,7 +44,7 @@ def export_csv(path: Path, rows: list[dict[str, Any]]) -> None:
         for field in row:
             if field not in fieldnames:
                 fieldnames.append(field)
-    with path.open("w", "w", encoding="utf-8", newline="") as output:
+    with path.open("w", encoding="utf-8", newline="") as output:
         writer = csv.DictWriter(output, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)

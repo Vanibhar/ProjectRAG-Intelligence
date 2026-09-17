@@ -275,11 +275,11 @@ class HybridRetriever:
             for chunk in candidates
         ]
 
-    scores = self.resources.reranker.predict(
-    pairs,
-    batch_size=32,
-    show_progress_bar=False,
-)
+        scores = self.resources.reranker.predict(
+   		pairs,
+   		batch_size=32,
+   		show_progress_bar=False,
+        )
         ranked = sorted(
             zip(candidates, scores),
             key=lambda item: float(item[1]),

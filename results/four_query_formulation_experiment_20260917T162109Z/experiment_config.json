@@ -1,0 +1,16 @@
+{
+  "configuration": {
+    "corpus_path": "data\\document_corpus.json",
+    "query_set_dir": "data\\query_sets",
+    "results_dir": "results",
+    "dense_model": "BAAI/bge-base-en-v1.5",
+    "reranker_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "dense_k": 10,
+    "bm25_k": 10,
+    "final_k": 5,
+    "batch_size": 32,
+    "device": "cpu",
+    "expected_query_count": 1071
+  },
+  "corpus_chunks": 342
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "retriever": "bm25",
+    "query_set": "set_1_original",
+    "class": "concept",
+    "article_recall_at_5": 0.9371196754563894,
+    "article_mrr_at_5": 0.8166666666666667,
+    "legal_dc_exact_gold_recall_at_5": 0.9371196754563894,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_1_original",
+    "class": "generalization",
+    "article_recall_at_5": 0.9058823529411765,
+    "article_mrr_at_5": 0.7615686274509804,
+    "legal_dc_exact_gold_recall_at_5": 0.9058823529411765,
+    "queries": 85
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_1_original",
+    "class": "logic",
+    "article_recall_at_5": 0.9066937119675457,
+    "article_mrr_at_5": 0.8146382691007438,
+    "legal_dc_exact_gold_recall_at_5": 0.9066937119675457,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_2_legal_terminology",
+    "class": "concept",
+    "article_recall_at_5": 0.9310344827586207,
+    "article_mrr_at_5": 0.8087559161595672,
+    "legal_dc_exact_gold_recall_at_5": 0.9310344827586207,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_2_legal_terminology",
+    "class": "generalization",
+    "article_recall_at_5": 0.8588235294117647,
+    "article_mrr_at_5": 0.7205882352941176,
+    "legal_dc_exact_gold_recall_at_5": 0.8588235294117647,
+    "queries": 85
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_2_legal_terminology",
+    "class": "logic",
+    "article_recall_at_5": 0.9026369168356998,
+    "article_mrr_at_5": 0.8064908722109534,
+    "legal_dc_exact_gold_recall_at_5": 0.9026369168356998,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "concept",
+    "article_recall_at_5": 0.8945233265720081,
+    "article_mrr_at_5": 0.7620689655172413,
+    "legal_dc_exact_gold_recall_at_5": 0.8945233265720081,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "generalization",
+    "article_recall_at_5": 0.7176470588235294,
+    "article_mrr_at_5": 0.5598039215686275,
+    "legal_dc_exact_gold_recall_at_5": 0.7176470588235294,
+    "queries": 85
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "logic",
+    "article_recall_at_5": 0.8924949290060852,
+    "article_mrr_at_5": 0.7851250845165653,
+    "legal_dc_exact_gold_recall_at_5": 0.8924949290060852,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_4_context_enriched",
+    "class": "concept",
+    "article_recall_at_5": 0.8640973630831643,
+    "article_mrr_at_5": 0.6910074374577417,
+    "legal_dc_exact_gold_recall_at_5": 0.8640973630831643,
+    "queries": 493
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_4_context_enriched",
+    "class": "generalization",
+    "article_recall_at_5": 0.5529411764705883,
+    "article_mrr_at_5": 0.4286274509803921,
+    "legal_dc_exact_gold_recall_at_5": 0.5529411764705883,
+    "queries": 85
+  },
+  {
+    "retriever": "bm25",
+    "query_set": "set_4_context_enriched",
+    "class": "logic",
+    "article_recall_at_5": 0.8742393509127789,
+    "article_mrr_at_5": 0.7347194050033806,
+    "legal_dc_exact_gold_recall_at_5": 0.8742393509127789,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_1_original",
+    "class": "concept",
+    "article_recall_at_5": 0.9249492900608519,
+    "article_mrr_at_5": 0.81342123056119,
+    "legal_dc_exact_gold_recall_at_5": 0.9249492900608519,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_1_original",
+    "class": "generalization",
+    "article_recall_at_5": 0.8823529411764706,
+    "article_mrr_at_5": 0.7431372549019608,
+    "legal_dc_exact_gold_recall_at_5": 0.8823529411764706,
+    "queries": 85
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_1_original",
+    "class": "logic",
+    "article_recall_at_5": 0.9046653144016227,
+    "article_mrr_at_5": 0.7730561189993239,
+    "legal_dc_exact_gold_recall_at_5": 0.9046653144016227,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_2_legal_terminology",
+    "class": "concept",
+    "article_recall_at_5": 0.8904665314401623,
+    "article_mrr_at_5": 0.7758958755916159,
+    "legal_dc_exact_gold_recall_at_5": 0.8904665314401623,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_2_legal_terminology",
+    "class": "generalization",
+    "article_recall_at_5": 0.788235294117647,
+    "article_mrr_at_5": 0.6547058823529411,
+    "legal_dc_exact_gold_recall_at_5": 0.788235294117647,
+    "queries": 85
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_2_legal_terminology",
+    "class": "logic",
+    "article_recall_at_5": 0.8620689655172413,
+    "article_mrr_at_5": 0.7396213657876943,
+    "legal_dc_exact_gold_recall_at_5": 0.8620689655172413,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "concept",
+    "article_recall_at_5": 0.8742393509127789,
+    "article_mrr_at_5": 0.7739012846517918,
+    "legal_dc_exact_gold_recall_at_5": 0.8742393509127789,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "generalization",
+    "article_recall_at_5": 0.7529411764705882,
+    "article_mrr_at_5": 0.6341176470588236,
+    "legal_dc_exact_gold_recall_at_5": 0.7529411764705882,
+    "queries": 85
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "logic",
+    "article_recall_at_5": 0.8661257606490872,
+    "article_mrr_at_5": 0.7288708586883028,
+    "legal_dc_exact_gold_recall_at_5": 0.8661257606490872,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_4_context_enriched",
+    "class": "concept",
+    "article_recall_at_5": 0.8762677484787018,
+    "article_mrr_at_5": 0.758553076402975,
+    "legal_dc_exact_gold_recall_at_5": 0.8762677484787018,
+    "queries": 493
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_4_context_enriched",
+    "class": "generalization",
+    "article_recall_at_5": 0.7411764705882353,
+    "article_mrr_at_5": 0.5752941176470588,
+    "legal_dc_exact_gold_recall_at_5": 0.7411764705882353,
+    "queries": 85
+  },
+  {
+    "retriever": "dense",
+    "query_set": "set_4_context_enriched",
+    "class": "logic",
+    "article_recall_at_5": 0.8519269776876268,
+    "article_mrr_at_5": 0.7227856659905341,
+    "legal_dc_exact_gold_recall_at_5": 0.8519269776876268,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_1_original",
+    "class": "concept",
+    "article_recall_at_5": 0.9797160243407708,
+    "article_mrr_at_5": 0.9095672751859365,
+    "legal_dc_exact_gold_recall_at_5": 0.9797160243407708,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_1_original",
+    "class": "generalization",
+    "article_recall_at_5": 0.9882352941176471,
+    "article_mrr_at_5": 0.8954901960784313,
+    "legal_dc_exact_gold_recall_at_5": 0.9882352941176471,
+    "queries": 85
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_1_original",
+    "class": "logic",
+    "article_recall_at_5": 0.973630831643002,
+    "article_mrr_at_5": 0.9065584854631508,
+    "legal_dc_exact_gold_recall_at_5": 0.973630831643002,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_2_legal_terminology",
+    "class": "concept",
+    "article_recall_at_5": 0.947261663286004,
+    "article_mrr_at_5": 0.8462812711291413,
+    "legal_dc_exact_gold_recall_at_5": 0.947261663286004,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_2_legal_terminology",
+    "class": "generalization",
+    "article_recall_at_5": 0.9411764705882353,
+    "article_mrr_at_5": 0.7698039215686275,
+    "legal_dc_exact_gold_recall_at_5": 0.9411764705882353,
+    "queries": 85
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_2_legal_terminology",
+    "class": "logic",
+    "article_recall_at_5": 0.949290060851927,
+    "article_mrr_at_5": 0.8369506423258959,
+    "legal_dc_exact_gold_recall_at_5": 0.949290060851927,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "concept",
+    "article_recall_at_5": 0.9655172413793104,
+    "article_mrr_at_5": 0.880054090601758,
+    "legal_dc_exact_gold_recall_at_5": 0.9655172413793104,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "generalization",
+    "article_recall_at_5": 0.8705882352941177,
+    "article_mrr_at_5": 0.7766666666666666,
+    "legal_dc_exact_gold_recall_at_5": 0.8705882352941177,
+    "queries": 85
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_3_semantic_paraphrase",
+    "class": "logic",
+    "article_recall_at_5": 0.9594320486815415,
+    "article_mrr_at_5": 0.8786004056795131,
+    "legal_dc_exact_gold_recall_at_5": 0.9594320486815415,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_4_context_enriched",
+    "class": "concept",
+    "article_recall_at_5": 0.9371196754563894,
+    "article_mrr_at_5": 0.8399594320486816,
+    "legal_dc_exact_gold_recall_at_5": 0.9371196754563894,
+    "queries": 493
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_4_context_enriched",
+    "class": "generalization",
+    "article_recall_at_5": 0.8352941176470589,
+    "article_mrr_at_5": 0.7101960784313726,
+    "legal_dc_exact_gold_recall_at_5": 0.8352941176470589,
+    "queries": 85
+  },
+  {
+    "retriever": "hybrid",
+    "query_set": "set_4_context_enriched",
+    "class": "logic",
+    "article_recall_at_5": 0.9553752535496958,
+    "article_mrr_at_5": 0.8454022988505747,
+    "legal_dc_exact_gold_recall_at_5": 0.9553752535496958,
+    "queries": 493
+  }
+]
