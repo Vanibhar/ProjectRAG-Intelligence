@@ -1,0 +1,9 @@
+{
+  "name": "legal-ai-assistant-frontend",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest" },
+  "devDependencies": { "@types/react": "latest", "@types/react-dom": "latest", "autoprefixer": "latest", "postcss": "latest", "tailwindcss": "^3.4.17", "typescript": "latest" }
+}

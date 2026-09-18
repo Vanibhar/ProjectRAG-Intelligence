@@ -62,3 +62,50 @@ These are the only intentional departures, made to run the methodology locally o
 | Only title metadata | Title plus `article_reference` retained | The requested article reference is the stable retrieval relevance label needed for Indian-dataset evaluation. |
 
 The original datasets contain apparent mojibake punctuation sequences. This implementation preserves them exactly and performs no automatic text repair, so source data remain untouched and results are traceable to the supplied files.
+
+## Production Legal AI Assistant
+
+The research runners above are unchanged. The production assistant is a separate
+runtime: it never runs query-set experiments or calculates retrieval metrics for a
+user question.
+
+### One-time index build
+
+Install dependencies, then build the retrieval artifacts once. This writes FAISS,
+BM25, and source metadata to the ignored `runtime_artifacts/` directory.
+
+```powershell
+python -m pip install -r requirements.txt
+python build_index.py
+```
+
+### Run the API and frontend
+
+Start the API in one terminal. Startup loads saved artifacts and the embedding,
+reranker, and generator models once.
+
+```powershell
+python -m uvicorn app:app --host 127.0.0.1 --port 8000
+```
+
+Start the React/Vite frontend in a second terminal:
+
+```powershell
+cd frontend
+npm install
+npm run dev
+```
+
+Open the URL printed by Vite (normally `http://localhost:5173`). The frontend
+sends `POST /api/ask` requests to `http://localhost:8000` and shows the generated
+answer plus reranked constitutional passages. `GET /api/health` reports whether
+startup completed.
+
+Copy `.env.example` to `.env` to configure models, device, CORS, and artifact
+location. The included generator is local and needs no API key. If a remote LLM
+provider is introduced later, keep its key only in the backend `.env` (for example
+`OPENAI_API_KEY`) and never use a `VITE_` prefix for it.
+
+The API defaults to `RAG_LOCAL_MODELS_ONLY=true`, so the online service never waits
+on Hugging Face after initial setup. If startup says that a model is absent, set it
+to `false` temporarily, start once to download the model, then return it to `true`.

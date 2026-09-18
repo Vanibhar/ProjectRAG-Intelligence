@@ -42,3 +42,9 @@ temp/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Production retrieval artifacts and frontend build output
+runtime_artifacts/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
